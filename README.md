@@ -15,6 +15,12 @@
 
 ### Lnaguages and Tools:
 
+# Github Stats
+
+![Suraj's github stats](https://github-readme-stats.vercel.app/api?username=Devendra1213&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devendra1213&layout=compact&theme=radical)
+
 
 <!---
 Devendra1213/Devendra1213 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

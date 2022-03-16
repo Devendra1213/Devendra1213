@@ -1,4 +1,4 @@
-<p align="center"><img align="center" width="50%" src="https://png2.cleanpng.com/sh/91687edee05a08a327d1253cd023e165/L0KzQYm3VMAzN6JnfZH0aYP2gLBuTgdmal5pfehubHBzfbb1lL1ud5NuhNc2YYDzPbXslvVtd6FyfdD9LYPydsXAggJmNZVqRdZudnXvf8Hskr02aZQ3fdVqNXO1doW5Vr41Pmo2SKc6N0G4QoOAUsQxOGY8UaoALoDxd1==/kisspng-web-development-mobile-app-development-software-de-developer-5ac2eca5c2f426.4691051715227240057985.png"/></>
+<p align="center"><img align="center" width="50%" src="https://png2.cleanpng.com/sh/91687edee05a08a327d1253cd023e165/L0KzQYm3VMAzN6JnfZH0aYP2gLBuTgdmal5pfehubHBzfbb1lL1ud5NuhNc2YYDzPbXslvVtd6FyfdD9LYPydsXAggJmNZVqRdZudnXvf8Hskr02aZQ3fdVqNXO1doW5Vr41Pmo2SKc6N0G4QoOAUsQxOGY8UaoALoDxd1==/kisspng-web-development-mobile-app-development-software-de-developer-5ac2eca5c2f426.4691051715227240057985.png"/></p>
 
 <h1 align="center">Hi, I'm Devendra</h1>
 <h3 align="center">I'm a passionate Full Stack Developer.</h3>
@@ -14,9 +14,9 @@
 
 - 📫 How to reach me **devendrapaikra079@gmail.com**
 
-## 🚀 Languages and Tools:
+<h1 align="center">🚀 Languages and Tools:</h1>
 
-<p align="left"> 
+<p align="center"> 
     <a href="https://www.cplusplus.com/"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
     <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/python.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
@@ -24,7 +24,7 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>  
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>  
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-  
+  </p>
 <br/>
 
 <h1 align="center">Contribution Streak</h1>
@@ -43,7 +43,7 @@
  
 <br/>
 
-<a href="https://github.com/Devendra1213/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=Devendra1213&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a><img src="https://activity-graph.herokuapp.com/graph?username=Devendra1213&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 

@@ -8,8 +8,8 @@
 
 [<img align="left" alt="" width="" src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/>]
 [<img align="left" alt="" width="" src="https://img.icons8.com/fluency/48/000000/twitter.png"/>]
-[<img align="left" alt="devendra-singh-paikra-958091203 | LinkedIn" width="" src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>][linkedin]
-[<img align="left" alt="" width="" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>]
+[<img align="left" alt="devendra-singh-paikra-958091203 | LinkedIn" width="" src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>]
+[<img align="left" alt="78_devendra | Twitter" width="" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>]
 
 <br/>
 

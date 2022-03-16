@@ -17,9 +17,11 @@
 
 # Github Stats
 
-![Suraj's github stats](https://github-readme-stats.vercel.app/api?username=Devendra1213&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devendra1213&theme=great-gatsby&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devendra1213&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devendra1213&langs_count=8)
+
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Devendra1213)
 
 
 <!---

@@ -8,7 +8,7 @@
 
 [<img align="left" alt="" width="" src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/>][Gmail]
 [<img align="left" alt="" width="" src="https://img.icons8.com/fluency/48/000000/twitter.png"/>][Twitter]
-[<img align="left" alt="" width="" src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>][Linkedin]
+[<img align="left" alt="" width="https://www.linkedin.com/in/devendra-singh-paikra-958091203/" width="22px" src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>][Linkedin]
 [<img align="left" alt="" width="" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>][Instagram]
 
 <br/>

@@ -6,10 +6,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="" width="" src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/>][Gmail]
-[<img align="left" alt="" width="" src="https://img.icons8.com/fluency/48/000000/twitter.png"/>][Twitter]
-[<img align="left" alt="https://www.linkedin.com/in/devendra-singh-paikra-958091203/" width="22px" src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>][Linkedin]
-[<img align="left" alt="" width="" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>][Instagram]
+[<img align="left" alt="" width="" src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/>]
+[<img align="left" alt="" width="" src="https://img.icons8.com/fluency/48/000000/twitter.png"/>]
+[<img align="left" alt="devendra-singh-paikra-958091203 | LinkedIn" width="" src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>][linkedin]
+[<img align="left" alt="" width="" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>]
 
 <br/>
 

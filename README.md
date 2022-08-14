@@ -1,12 +1,12 @@
 <p align="center"><img align="center" width="50%" src="https://png2.cleanpng.com/sh/91687edee05a08a327d1253cd023e165/L0KzQYm3VMAzN6JnfZH0aYP2gLBuTgdmal5pfehubHBzfbb1lL1ud5NuhNc2YYDzPbXslvVtd6FyfdD9LYPydsXAggJmNZVqRdZudnXvf8Hskr02aZQ3fdVqNXO1doW5Vr41Pmo2SKc6N0G4QoOAUsQxOGY8UaoALoDxd1==/kisspng-web-development-mobile-app-development-software-de-developer-5ac2eca5c2f426.4691051715227240057985.png"/></p>
 
 <h1 align="center">Hi, I'm Devendra</h1>
-<h3 align="center">I'm a passionate Frontend Developer.</h3>
+<h3 align="center">I'm a Frontend Developer.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Companion App.**
+- 🔭 I’m currently working on **React Native**
 
 - 🌱 I’m currently learning **Android Development.**
 
